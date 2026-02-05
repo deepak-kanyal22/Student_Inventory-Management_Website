@@ -27,7 +27,8 @@ const NotFound = () => {
           Page Not Found
         </h1>
         <p className="text-lg text-slate-600 max-w-md mx-auto">
-          Looks like this page doesn't exist. Let's get you back on track with managing your inventory!
+          Looks like this page doesn't exist. Let's get you back on track with
+          managing your inventory!
         </p>
         <Button className="bg-gradient-to-r from-blue-500 to-purple-600 hover:opacity-90 text-white mt-4">
           <ArrowLeft className="w-4 h-4" />
